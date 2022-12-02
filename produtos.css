@@ -5,11 +5,8 @@ header {
 
 .caixa {
 	position: relative;
-	width: 940px;
+	width: 900px;
 	margin: 0 auto;
-}
-.tamanho{
-	width: 30%
 }
 nav {
 	position: absolute;
@@ -28,4 +25,9 @@ nav a {
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
+}
+
+.tamanho{
+    width: 30%;
+
 }
